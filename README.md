@@ -1,2 +1,2 @@
 # algoritmica25
-Repositorio publico con las practicas de la asignatura Logia y Algoritmica del curso 2024-2025
+Repositorio publico con las practicas de la asignatura Lógica y Algorítmica del curso 2024-2025
